@@ -1,0 +1,58 @@
+#background {
+    height: 725px;
+}
+body {
+    background-color: #fcfbfb; 
+    text-align: center;
+    color: rgb(0, 0, 0)
+}
+header {
+    background-color:rgba(20,30,13, .7);
+    color: rgb(0, 0, 0)
+}
+nav a:hover {
+    background-color: black;
+    color: aqua
+}
+footer{
+    background-color: burlywood;
+    color: rgb(0, 0, 0);
+}
+.msg{
+    background-color: rgb(113, 231, 83);
+    color: rgb(140, 92, 253)
+}
+.book{
+    background-color: #e9d2d2;
+    color: rgb(43, 4, 8)
+}
+.join{
+    background-color: #e6dede;
+    color: rgb(3, 95, 95)
+}
+.book:hover{
+    background-color: #0e8f64;
+    color: aqua
+}
+.join:hover{
+    background-color: aquamarine;
+    color: rgb(143, 122, 2)
+}
+nav a:hover{
+    background-color: #e9d2d2;
+    color: aqua
+}
+.icon {
+    width: 80px;
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+footer p {
+    font-size: 1.2em;
+}    
+footer p a:hover {
+    text-decoration: underline;
+}    
